@@ -2,7 +2,7 @@
 
 Rails asset pipeline integration for [rateYo](https://github.com/prrashi/rateYo)
 
-rateYo version `2.1.1`
+rateYo version `2.2.0`
 
 ## Installation
 
